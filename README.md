@@ -27,3 +27,4 @@ ________________________________________________________________________________
 
 The link: https://ml-web-app-somayaabodabeel.herokuapp.com/
 ___________________________________________________________________________________________________
+### 📱A version of the mobile application has been created for Android system using Android studio program

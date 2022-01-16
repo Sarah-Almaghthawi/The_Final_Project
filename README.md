@@ -21,4 +21,9 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________
 ### 🖥Predict charges for new clients by using Graphical User Interface GUI
 <img width="706" alt="2022-01-16 (2)" src="https://user-images.githubusercontent.com/91993618/149668989-5a1de98c-c3ae-4605-b3d0-d555c0d5ac4c.png">___________________________________________________________________________________________________
-### Deployed model using Streamlit
+### 🔌Deployed model using Streamlit
+#### Here I put it in Heroku to link it to my GitHub. Heroku is a container-based cloud platform as a service that developers use Heroku to publish, manage, and scale modern applications.
+![2022-01-16 (4)](https://user-images.githubusercontent.com/91993618/149678147-56be6d62-279c-4d31-b6ce-2ae194905701.png)
+
+The link: https://ml-web-app-somayaabodabeel.herokuapp.com/
+___________________________________________________________________________________________________
